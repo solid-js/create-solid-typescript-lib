@@ -1,6 +1,6 @@
 {
   "name": "create-solid-typescript-lib",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Create a new Typescript library for NPM. No Configuration required, integrated Unit Tests, Git hooks and Markdown documentation.",
   "main": "index.js",
   "scripts": {
