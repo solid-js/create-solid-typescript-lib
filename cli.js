@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 const exec = require('child_process').exec;
 
 const installProcess = exec(`curl https://raw.githubusercontent.com/solid-js/typescript-npm-starter/master/install.sh?${Date.now()} | sh`);
