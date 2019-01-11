@@ -10,6 +10,9 @@
     "type": "git",
     "url": "git+https://github.com/solid-js/create-solid-typescript-lib.git"
   },
+  "bin": {
+    "create-solid-typescript-lib": "index.js"
+  },
   "keywords": [
     "npm",
     "starter",
